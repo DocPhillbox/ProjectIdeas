@@ -2,5 +2,5 @@
 Project ideas
 
 - [ ] 3D audio visualizer
-- [ ] CLI tool that build and index complex directories structure [MazeCompass](https://github.com/DocPhillbox/MazeCompass)
+- [ ] CLI tool that build and index complex directories structure
 - [ ] Web template recognition (Wordpress, Shopify)
